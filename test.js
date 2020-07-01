@@ -11,6 +11,8 @@ function test(){
 
 // pull if we wnat to get code
 
+//sync to push and pull
+
 //create new branch for new requirements
 
 //after dev and test we merge it to master branch
