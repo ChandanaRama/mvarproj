@@ -1,0 +1,4 @@
+home {
+    console.log("hi");
+    
+}
